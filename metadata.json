@@ -1,0 +1,6 @@
+{
+  "name": "特装車両・受発注問い合わせ管理台帳システム",
+  "description": "スプレッドシート入力の誤入力・ゼロ落ち・列ずれを防ぐ、入力バリデーション付き問い合わせ受付・案件管理システムモック",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
